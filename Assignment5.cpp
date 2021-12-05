@@ -1,5 +1,6 @@
 // OOP CG Lab Assignment 5 :
 // Write C++ program to implement Cohen Southerland line clipping algorithm.
+// Compiler used :- Turbo C++
 
 #include<iostream.h>
 #include<dos.h>
