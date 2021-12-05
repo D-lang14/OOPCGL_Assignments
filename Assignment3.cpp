@@ -2,6 +2,7 @@
 
 // Write C++ program to draw the following pattern. Use DDA line and Bresenham‘s circle 
 // drawing algorithm. Apply the concept of encapsulation.
+// Compiler used :- Turbo C++
 
 #include<iostream.h>
 #include<graphics.h>
