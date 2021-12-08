@@ -1,5 +1,6 @@
 // OOP CG Lab Assignment 5 :
-// Write C++ program to implement Cohen Southerland line clipping algorithm.
+// Write C++ program to draw a concave polygon and fill it with desired color using scan fill 
+// algorithm. Apply the concept of inheritance.
 // Compiler used :- Turbo C++
 
 #include<iostream.h>
