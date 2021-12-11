@@ -1,4 +1,4 @@
-// Assignment 9
+// OOP CG Lab Assignment 9 :
 // Write C++ program to generate fractal patterns by using Koch curves
 // Compiler Used :- Turbo Cpp
 
